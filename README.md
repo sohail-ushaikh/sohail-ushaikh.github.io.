@@ -1,5 +1,5 @@
 # SOHAIL SHAIKH
-##[Linkedin](https://www.linkedin.com/in/sohail-shaikh) 
+[Linkedin](https://www.linkedin.com/in/sohail-shaikh) 
 
 
 
