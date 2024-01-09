@@ -6,6 +6,7 @@
 ### [Data-Driven Sales Enhancement for a Retail Chain.]()
 -	Leveraged Python libraries (Pandas, Matplotlib) for advanced data analytics, pinpointing frequently co-purchased products across age groups.
 -	Utilized data visualization to analyze day-of-week sales patterns, optimizing product combinations and shaping targeted marketing strategies for impactful strategic decision-making.
+<img src="/images/regork1.png" alt="drawing" width="700"/>
 <img src="/images/regork1.png" alt="drawing" width="700" height="700"/>
 <img src="/images/regork2.png" alt="drawing" width="700"/>
 <img src="/images/regork3.png" alt="drawing" width="700"/>
