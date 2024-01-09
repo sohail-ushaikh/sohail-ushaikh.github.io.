@@ -14,7 +14,7 @@ Master of Science, Business Analytics
 -	Optimized complex SQL queries for faster data retrieval from multiple sources and streamlined data processing with advanced SQL schema operations in a dynamic environment.
 
 
-#### KE PRIVATE LTD
+#### KE PRIVATE LTD.
 ##### DATA ANALYTICS INTERN
 -	Achieved a 13% increase in revenue by empowering business stakeholders to make informed decisions by designing and developing interactive data visualization dashboards that effectively communicated key business metrics and performance indicators.
 -	Overcame the challenge of processing massive datasets by developing ETL scripts in Python to efficiently perform extract, transform, and load operations, significantly improving data processing efficiency by 78% and enabling timely data-driven decision-making.
