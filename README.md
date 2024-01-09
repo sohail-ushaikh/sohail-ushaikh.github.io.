@@ -2,7 +2,7 @@
 [Linkedin](https://www.linkedin.com/in/sohail-shaikh-)        [Tableau-Public](https://public.tableau.com/app/profile/sohail.shaikh5562/vizzes)
 
 ### EDUCATION
-- University of Cincinnati, Carl H. Lindner College of Business
+- University of Cincinnati, Carl H. Lindner College of Business\
 - Master of Science, Business Analytics 
 
 
