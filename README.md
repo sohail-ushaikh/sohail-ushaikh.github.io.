@@ -2,7 +2,7 @@
 [Linkedin](https://www.linkedin.com/in/sohail-shaikh-)        [Tableau-Public](https://public.tableau.com/app/profile/sohail.shaikh5562/vizzes)
 
 ## ACADEMIC PROJECTS
-<img src="/images/regork1.png" alt="drawing" width="200"/>
+<img src="/images/regork1.png" alt="drawing" width="700"/>
 
 ### [Data-Driven Sales Enhancement for a Retail Chain.]()
 -	Leveraged Python libraries (Pandas, Matplotlib) for advanced data analytics, pinpointing frequently co-purchased products across age groups.
