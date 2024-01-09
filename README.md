@@ -5,6 +5,15 @@
 University of Cincinnati, Carl H. Lindner College of Business\
 Master of Science, Business Analytics 
 
+### WORK EXPERIENCE
+#### TATA CONSULTANCY  SERVICES LTD.
+##### DATA ANALYST
+-	Awarded for reducing data processing time from 13 hours to 75 minutes (90% decrease) and manual work by 10+ hours/week by developing Python tools for automating summary report generation.
+-	Enabled a 27% reduction in diagnostic trouble code detection by developing intuitive dashboards, transforming intricate technical context into digestible insights for impactful decision-making.
+-	Achieved 21% faster dashboard refresh by enhancing existing ETL processes and Implemented drill-down capabilities in the dashboard for in-depth analysis and root cause identification.
+-	Optimized complex SQL queries for faster data retrieval from multiple sources and streamlined data processing with advanced SQL schema operations in a dynamic environment.
+
+
 
 ## ACADEMIC PROJECTS
 
