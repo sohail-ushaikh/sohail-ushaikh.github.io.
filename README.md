@@ -13,7 +13,7 @@
 ### [Exploratory Data Analysis on Physico-Chemical Properties of Wine.]() 
 -	Employed robust Exploratory Data Analysis (EDA), implementing rigorous data quality checks for enhanced dataset reliability and accuracy.
 -	Applied advanced statistical techniques, including the Central Limit Theorem, Bootstrap, and Chi-Square Permutation tests to uncover hidden relationships and optimize wine production.
-<img src="/images/stat_method_1.png" alt="drawing" width="500"/>
-<img src="/images/stat_method_2.png" alt="drawing" width="500"/>
+<img src="/images/stat_method_1.png" alt="drawing" width="500"/> <img src="/images/stat_method_2.png" alt="drawing" width="500"/>
+
 <img src="/images/stat_method_3.png" alt="drawing" width="500"/>
 
